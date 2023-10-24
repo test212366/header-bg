@@ -1,0 +1,26 @@
+.wrap {
+	display: flex;
+	justify-content: space-between;
+}
+li {
+	margin-left: 10px;
+}
+.one {
+	margin-top: 50px;
+	height: 100vh;
+}
+.two {
+	height: 100vh;
+}
+.tree {
+	height: 100vh;
+}
+.header {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.active {
+	background-color: rgba(0, 0, 0, 0.37);
+}
